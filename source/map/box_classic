@@ -1,0 +1,8 @@
+player_one_fix player_two_fix neutral neutral player_one player_one player_one player_one player_one_fix player_two_fix
+player_one_fix neutral player_one neutral neutral neutral neutral neutral neutral player_two_fix
+player_one_fix neutral neutral player_two neutral neutral neutral neutral neutral player_two_fix
+player_one_fix neutral player_two neutral player_one player_one neutral player_one neutral player_two_fix
+player_one_fix neutral player_two neutral player_two player_two neutral player_one neutral player_two_fix
+player_one_fix neutral neutral neutral neutral neutral player_one neutral neutral player_two_fix
+player_one_fix neutral neutral neutral neutral neutral neutral player_two neutral player_two_fix
+player_one_fix player_two_fix player_two player_two player_two player_two neutral neutral player_one_fix player_two_fix
